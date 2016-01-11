@@ -1,12 +1,6 @@
 public class Usuario {
+//alteradooooooo xD
 
-private int idade;
-private String nome;
-
-public Usuario{
-  
-  
-}
 
 
 }
